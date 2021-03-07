@@ -23,7 +23,7 @@ namespace homework1
             }
             string path = "C:\\cs2019\\3.7\\";
             string file = "AABB.txt"; 
-
+            Console.WriteLine("ABC");
             
         }
     }
